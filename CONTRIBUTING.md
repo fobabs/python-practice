@@ -1,4 +1,4 @@
-# Contributing to Awesome Data Resources
+# Contributing to Python Practice
 
 First off, thanks for taking the time to contribute! ❤️
 
