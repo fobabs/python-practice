@@ -1,2 +1,13 @@
-# python-practice
-This contains solutions to HackerRank's Python challenges
+[![HackerRank](https://marketplace.jazzhr.com/wp-content/uploads/78043367-hackerrank-logo-latest.png)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+
+# HackerRank: Python Practice
+
+This repository includes all solutions on topics covered.
+
+* Browse the repository to see all the solutions in this project.
+* Click on each file to view the whole code.
+* If you like the project, give it a star. It means a lot to the people maintaining it.
+
+## Want to contribute?
+
+* If you want to help us improve, take a minute to read the [Contribution Guidelines](/CONTRIBUTING.md) first.
